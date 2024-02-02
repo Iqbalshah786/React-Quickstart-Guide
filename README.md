@@ -64,7 +64,7 @@ Events like onClick can be handled in React components to respond to user intera
 ## Passing Children:
 Components can receive and render children components using the children prop.
 
-```ts
+```tsx
 interface Props {
   children: ReactNode;
 }
